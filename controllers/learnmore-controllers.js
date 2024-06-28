@@ -1,3 +1,6 @@
+import axios from "axios";
+import 'dotenv/config';
+
 const prompt1 = async (req, res) => {
     const { prompt } = req.body;
   
