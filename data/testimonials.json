@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Increased Efficiency and Productivity",
+      "image": "path/to/copilot/image.jpg",
+      "description": "Prod1"
+    },
+    {
+      "id": 2,
+      "title": "Cost Savings and Financial Optimization",
+      "image": "path/to/office/image.jpg",
+      "description": "Prod2"
+    },
+    {
+      "id": 3,
+      "title": "Enhanced Safety and Risk Management",
+      "image": "path/to/learn/image.jpg",
+      "description": "Prod3"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Richard Owen",
+      "career": "Contractor",
+      "location": "Toronto, Ontario",
+      "testimonial": "I've seen remarkable improvements in my business since integrating Microsoft's AI tools...",
+      "image": "path/to/user1/image.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Virginie Leblanc",
+      "career": "Home Design",
+      "location": "Sherbrooke, Quebec",
+      "testimonial": "Integrating Microsoft's AI tools has been transformative for my work...",
+      "image": "path/to/user2/image.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jamie Campbell",
+      "career": "Carpenter",
+      "location": "Squamish, British Columbia",
+      "testimonial": "These tools have revolutionized how I plan projects, optimize material usage, and collaborate with clients...",
+      "image": "path/to/user3/image.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Robert Frost",
+      "career": "Independent Welder",
+      "location": "Red Deer, Alberta",
+      "testimonial": "As a welder in Alberta, Microsoft's AI tools have made a big difference in how I work...",
+      "image": "path/to/user4/image.jpg"
+    }
+  ]
+}

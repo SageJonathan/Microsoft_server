@@ -19,7 +19,7 @@ app.use(bodyParser.urlencoded({ extended: true })); // Parse URL-encoded bodies
 app.use('/landing', landingRouter);
 app.use('/learnmore', learnmoreRouter);
 
-// Listen the port
+// Listen to the port
 app.listen(PORT, () => {
-    console.log(`The server is running on the port:${PORT}`);
+  console.log(`Server is running on port ${PORT}`);
 });
